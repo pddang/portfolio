@@ -1,2 +1,0 @@
-# portfolio
-Revamping personal website 
